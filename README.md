@@ -4,7 +4,6 @@
 |:-------:|:-----:|:-------:|:-----:|:------------:|:-------:|
 |MPI FIRE |2006   |105000   |1.0    |Flex          |Vermelho |
 |Modelo   |Ano    |KM       |Motor  |Combustível   |Cor      |
-|:-------:|:-----:|:-------:|:-----:|:------------:|:-------:|
 
 ![palio_fire_2006](https://i.imgur.com/xylhmzo.png)
 ![palio_fire_2006](https://img-us-2.trovit.com/img2br/U1p1l1Ci1k16F/U1p1l1Ci1k16F.1_11.jpg)
